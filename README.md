@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Roddy Jacobson_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _An about me page 1/27/18_
 
-#### By _**{List of contributors}**_
+#### By _**Roddy Jacobson**_
 
 ## Description
 
